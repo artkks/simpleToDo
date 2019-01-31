@@ -1,0 +1,45 @@
+.inputBox {
+    z-index: 0;
+    width:30pc;
+    height:90;
+    background-color:#9dacb9c4;
+    margin-top:20px;
+    padding:  20px;
+    border-radius: 20px; 
+}
+.form {
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+} 
+.textArea { 
+    z-index: 0;
+    width: 25pc;
+    height: 50px; 
+    border-radius:30px; 
+    padding: 20px;  
+}
+.inputButton {
+    width:50px;
+    height:50px;
+    font-size:30px;
+    border-radius: 20px;
+    margin-left: 10px
+}
+.cBox{ 
+    width:30pc;
+    height:90px;   
+    padding: 30px;
+    border-radius: 20px; 
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+.checkBox {
+    width: 30px;
+    height: 30px; 
+    margin-left:20px;
+    margin-right:20px;
+}
