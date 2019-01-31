@@ -7,7 +7,8 @@ The project you gave.
  Download  to your computer as .zip file.
 
 ```bash
-cd SimpletoDo
+cd simpleToDo-master
+
 npm install
 
 npm install --save react-geomicons 
